@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "my-webpack"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
